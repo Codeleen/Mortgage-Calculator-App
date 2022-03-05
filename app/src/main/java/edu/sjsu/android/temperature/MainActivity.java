@@ -14,7 +14,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
     private EditText text;
     TextView finalResult;
-
+//to commit accident
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
