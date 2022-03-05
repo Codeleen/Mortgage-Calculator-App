@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Temperature Converter</string>
-    <string name="Celsius">to Celsius</string>
+    <string name="fifteen">15 Years</string>
     <string name="Calc">Calculate</string>
-    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="twenty">20 Years</string>
+    <string name="thirty">30 Years</string>
+    <string name="tax_insurance_inclusion">Include taxes/insurance</string>
+    <string name="result">Monthly payment</string>
 </resources>
